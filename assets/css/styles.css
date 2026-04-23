@@ -811,6 +811,10 @@ section {
   max-width: 85%;
 }
 
+.resume-do .resume-do-inner .resume-do-icon {
+  text-align: center;
+}
+
 .resume-do .resume-do-inner .resume-do-icon h5 {
   margin-top: 20px;
   font-size: 25px;
@@ -927,7 +931,7 @@ section {
   transition: all 0.4s;
   position: absolute;
   height: 100%;
-  width: 98%;
+  width: 100%;
   top: 0;
   opacity: 0;
   bottom: 0;
